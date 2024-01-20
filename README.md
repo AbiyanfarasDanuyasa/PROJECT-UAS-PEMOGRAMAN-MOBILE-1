@@ -37,8 +37,3 @@ kedelapan ada menu twoactivity yaitu tanya jawab antara kedua pengguna
 
 
 
-
-
-
-
-
